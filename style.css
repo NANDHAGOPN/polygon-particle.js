@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.home-area{
+    background: url(pic.jpg);
+    height: 250vh;
+    width: 100%;
+    -webkit-background-size:cover ;
+    background-size:cover ;
+    background-position: center center;
+}
